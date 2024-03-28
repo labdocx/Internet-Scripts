@@ -13,3 +13,13 @@ To dive into the world of `internet-scripts`, follow these steps:
   
   ```bash
   git clone https://github.com/labdocx/internet-scripts.git
+
+  ## Usage Guidelines
+
+Ensure your PowerShell execution policy allows script execution:
+## 
+```powershell
+Set-ExecutionPolicy RemoteSigned
+```
+## 
+Note: Review scripts before executing to ensure they meet your security standards.
